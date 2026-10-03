@@ -2,6 +2,7 @@
 
   <PropertyGroup>
     <UserSecretsId>dotnet-Dotti.Sample-b8293554-5bea-4cbc-91e4-1712c885b506</UserSecretsId>
+    <IsPackable>false</IsPackable>
   </PropertyGroup>
 
   <ItemGroup>
